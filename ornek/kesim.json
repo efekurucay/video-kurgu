@@ -1,0 +1,17 @@
+{
+ "baslik": "Vlog 12 Kapadokya",
+ "kaynaklar": {
+  "001": "D:/vlog12/ham/DJI_0012.MP4",
+  "002": "D:/vlog12/ham/DJI_0013.MP4",
+  "003": "D:/vlog12/ham/drone_0004.MP4"
+ },
+ "parcalar": [
+  {"kaynak": "001", "giris": "00:41:10.5", "cikis": "00:41:32.0", "bolum": "Balonlar", "not": "açılış: günün en güçlü anı başa"},
+  {"kaynak": "003", "giris": "00:01:05", "cikis": "00:01:17", "dokunma": true, "not": "drone, müzik altına"},
+  {"kaynak": "001", "giris": "00:00:12.0", "cikis": "00:01:35.4", "bolum": "Sabah 5", "not": "kurulum: plan ne"},
+  {"kaynak": "001", "giris": "00:07:40", "cikis": "00:09:02", "not": "otelden çıkış"},
+  {"kaynak": "002", "giris": "00:15:20", "cikis": "00:18:45", "bolum": "Göreme", "not": "yürüyüş + yemek"},
+  {"kaynak": "002", "giris": "01:02:10", "cikis": "01:03:00", "dokunma": true, "not": "gün batımı montajı"},
+  {"kaynak": "002", "giris": "01:10:05", "cikis": "01:11:30", "bolum": "Kapanış", "not": "ne değişti + sonraki bölüm"}
+ ]
+}

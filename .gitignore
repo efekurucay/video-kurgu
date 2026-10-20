@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+# çalışma klasörleri ve medya repoya girmez
+is/
+*.mp4
+*.mov
+*.wav
+*.MP4
+*.MOV
